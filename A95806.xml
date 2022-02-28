@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good of peace and ill of vvarre, set forth in a sermon preached in the cathedrall church of S. Paul, the last day of July, 1642. By Ephraim Vdall, Rector of S. Austins, London.</title>
+            <author>Udall, Ephraim, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95806</idno>
+            <idno type="STC">Wing U9</idno>
+            <idno type="STC">Thomason E113_16</idno>
+            <idno type="STC">ESTC R23094</idno>
+            <idno type="EEBO-CITATION">99871911</idno>
+            <idno type="PROQUEST">99871911</idno>
+            <idno type="VID">124329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124329)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good of peace and ill of vvarre, set forth in a sermon preached in the cathedrall church of S. Paul, the last day of July, 1642. By Ephraim Vdall, Rector of S. Austins, London.</title>
+                  <author>Udall, Ephraim, d. 1647.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Badger, for Ph. Stephens and C. Meridith, and are to be sold at the gilded Lion and the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXIX, 11 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124329:1"/>
+            <pb facs="tcp:124329:1" rendition="simple:additions"/>
+            <p>THE Good of Peace AND ILL of VVARRE, Set forth in a Sermon preached in the <hi>Cathedrall</hi> Church of S. <hi>Paul,</hi> the laſt day of <hi>July,</hi> 1642.</p>
+            <p>
+               <hi>By</hi> EPHRAIM VDALL, <hi>Rector of S.</hi> Auſtins, LONDON.</p>
+            <q>
+               <bibl>
+                  <hi>IAM. 3.17.</hi>
+               </bibl> 
+               <hi>The wiſdom that is from above is firſt pure, then peaceable, gentle, and eaſie to be entreated, full of mercy, and good fruits, without partiality, and without hypo<g ref="char:EOLhyphen"/>criſie, and the fruit of righteouſneſſe is ſowne in peace, of them that make peace.</hi>
+            </q>
+            <q>Quaedam remedia ſunt triftiora ipſo morbo, ut ſatiùs ſit oppetere mortem, quàm his aucupari ſalutem: ità quandò<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſatiùs eſt ferre injuriam, quàm majore incom<g ref="char:EOLhyphen"/>modo ulciſci, ferre pacem etiamſi parùm commodam aut aequam, quàm bellum cum immenſis malis ſuſcipere. <bibl>
+                  <hi>Eraſm. in Simil.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Badger,</hi> for <hi>Ph. Stephens and C. Meridith,</hi> and are to be ſold at the gilded Lion and the Crane in <hi>Pauls</hi> Church-yard. M.DC.XLII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:124329:2"/>
+            <pb facs="tcp:124329:2"/>
+            <head>Venerabili admodum Viro D. ANTHONIO VINCENT Militi &amp; Baronetto, de <hi>Stoke Dawber<g ref="char:EOLhyphen"/>non</hi> in Comitatu <hi>Surriae,</hi> ſalutem in Authore ſalutis.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Rnatiſſime Vir &amp; omnibus mihi numeris colende, concionem poſtremo die <hi>Julii</hi> in <hi>Cathedrali Eccleſiâ Divi Pauli</hi> ad <hi>Londi<g ref="char:EOLhyphen"/>nates</hi> noſtros habui: quam jàm impreſſam omniuminſpiciendam oculis emitto. Quas ob rationes, ad Lectorem tibi demonſtrabit Epiſtola, ob quas tuo nomini inſcribo facillimè aſcribo. Nôſti probè me primam Curam Paſtoralem per advocatio<g ref="char:EOLhyphen"/>nem <hi>Patris</hi> tui <hi>Patroni</hi> mei (memoriae mihi charae ac ve<g ref="char:EOLhyphen"/>nerandae) accepiſſe, qui (tantus amor fuit) me ſubinde Beneficio reditus amplioris decoravit. Antiquus amor <hi>Avi</hi> tui, (piae memoriae) in me, per <hi>Patrem</hi> tuum, ad me deſcendebat, &amp; quaſi ſcaturigine haereditariâ in te diffuſus eſt. Tu enim ipſe, affectibus eiſdem (&amp; vivis ipſis, &amp; jam demortuis, aerumnis hu<g ref="char:EOLhyphen"/>jus vitae levatis, in ſinu <hi>Abrahae</hi> requieſcentibus, &amp; ſuavi refrigerio coram facie <hi>Domini</hi> donatis) me
+<pb facs="tcp:124329:3"/>complexus es jugiter. Tantis ideò me tui te<g ref="char:EOLhyphen"/>neri vinculis exiſtimavi, ut quamprimùm anſam mihi praeberet tempus, grati animi mei aliquod tibi teſtimonium exhiberem. Quaproptèr, ſimu<g ref="char:EOLhyphen"/>làc mecum hanc concionem imprimendam ſtatuiſ<g ref="char:EOLhyphen"/>ſem, ſub tui nominis tutela illam, qualem qua<g ref="char:EOLhyphen"/>lem, in apricum mittere decrevi. Dic quaeſo incul<g ref="char:EOLhyphen"/>tae huic opellae, <hi>vade (per me licet) in Urbem, &amp; Orbem.</hi> Indignam illam eſſe fateor auſpiciis tuis, obſervantiae meae digniſſimum eſt quod potis ſum proferre ſignum. Munuſcula Scholaria ſunt <hi>(Sicut far nostrum modicum, &amp; curta ſupellex)</hi> modica &amp; curta. Grato precor oculo perluſtres. Vnam for<g ref="char:EOLhyphen"/>ſan pejùs poſſis collocare horam. Temeritati dedi<g ref="char:EOLhyphen"/>catoriae ignoſcas, <hi>Hominis,</hi> ſcilicèt, nolentis unquàm immemorem, antiquae domus, ſuorum amicorumſe prae<g ref="char:EOLhyphen"/>bere: volentis ſemper, parato animo, devinctam grati<g ref="char:EOLhyphen"/>tudinem familiae <hi>Vincentum</hi> toti praedicare, noctéque, diéque preces effundere <hi>bono Deo noſtro,</hi> ut te cum clara tuâ <hi>Conjuge, Progenié<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </hi> veſtrâ, vitâ piâ, ſanâ, honorandâ; morte matura, tranquilla, placida, coeleſti gratiâ in ter<g ref="char:EOLhyphen"/>ris, &amp; tandem ſupercoeleſti gloria in coelis dignetur coronare, in cujus divini favoris ulnis, teneraeque mi<g ref="char:EOLhyphen"/>ſericordiae complexibus te per vota recondens, ulterio<g ref="char:EOLhyphen"/>rem tibi moleſtiam creare nolo.</p>
+            <closer>
+               <signed>
+                  <hi>Dominationis tuae obſervantiſsimus, Antiqui amoris tui ſtudioſiſsimus</hi> EPHRAIM VDALL.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:124329:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE good opinion ſome men had of this Ser<g ref="char:EOLhyphen"/>mon that heard it, who doe deplore the ſad condition of our distracted Nation at this time, moved them importunately to preſſe me to commit it to the Preſſe; againſt which J was reſolved, had not ſome other reaſons overſwayed mee, of which I give this briefe ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>First, I was informed by ſome, that it would be printed, and by others that it was in the Preſſe, by the imperfect and broken notes of ſhort Writers; who what ever their excellen<g ref="char:EOLhyphen"/>cy bee in the ſpeed of their pen, yet ſeldome have they the wit or judgement, or faithfulneſſe to put forth any thing they take in writing, without groſſe corruptions and depre<g ref="char:EOLhyphen"/>vations; whereof wee have divers inſtances of late in Ser<g ref="char:EOLhyphen"/>mons, both of the living and the dead.</p>
+            <p>Secondly, it fell out at the hearing of it, as it did with our Saviour, <hi>Iohn 7.12. Some ſaid hee was a good man, others ſaid nay, but he deceiveth the peo<g ref="char:EOLhyphen"/>ple:</hi>
+               <pb facs="tcp:124329:4"/>ſo ſome ſaid it was a good Sermon, others ſaid nay, but it was malignant, and anſwerab<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y it hath ſtill its ac<g ref="char:EOLhyphen"/>cuſers to them that heard it not, to whom it is now able to give its owne account, wanting only that of <hi>Ierome, ne<g ref="char:EOLhyphen"/>ſcio quid</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>viva vox habet.</hi>
+            </p>
+            <p>Thirdly and laſtly, I was informed by more than one, that there were divers Writers, ſome that came of their owne accord, others ſent thither, by ſome of no meane ac<g ref="char:EOLhyphen"/>count for profeſsion of Religion, to catch upon ſomething they expected would fall from mee, for which they might call mee in queſtion, and bring mee into trouble. A moſt wicked &amp; godleſſe practice (if it be true) both in the imployed, and them that did imploy them, and no wayes ſuitable with that exactneſſe of Religion they make profeſsion of, but proceeding from a malignant influence of Satan, the <hi>accu<g ref="char:EOLhyphen"/>ſer of the brethren,</hi> upon their hearts, in which it ſeemes he hath too great a ſhare; for either they be but Hypocrites, and wholely in his power, or elſe true Chriſtians (which is poſsible) and then corruption is too predominant in them. It is an eaſie thing to finde a ſtaffe to beat a Dog, but to deſire the Dog would commit a fault, that wee might cudgell him, is cruelty, not beſeeming a righteous man, <hi>who is mer<g ref="char:EOLhyphen"/>cifull to a beaſt, Prov. 12.10.</hi> but to wiſh a fault in a man, a Miniſter, in whom we know none, (eſpecially in times wherein we complaine of ſo much ſcandall in our Miniſters, that we ſhould rather praiſe God for any one that is not ſcan<g ref="char:EOLhyphen"/>dalous) and to that end, to <hi>watch for his halting,</hi> and to catch at his words in his preaching, against whom we have nothing more to ſay than this, <hi>wee doe not love thee, why?
+<note place="margin">Mat. 1. ult.</note> we know not, onely we know wee doe not love thee,</hi> this is ſo farre from Religion, that ſure the Divell hath
+<pb facs="tcp:124329:4"/>a ſtrong poſſeſsion in ſuch mens hearts, and they ſeeme to me (rather than to be true and good Chriſtians) to bee the bre<g ref="char:EOLhyphen"/>thren of thoſe curſed <hi>Babylonians,</hi> who when they could find no other fault in <hi>Daniel, would catch him in his prayers, and lay a ſnare for him in the Law of his God, Dan. 6.5.</hi> This is ſuch a ſinne, as that for which God threa<g ref="char:EOLhyphen"/>tens to cover them with ſhame, <hi>Eſay. 29.31. who made a man an offender for a word, and laid a ſnare for him that reproved in the gate, and turned the juſt aſide for a thing of nought.</hi> What is this but to miſe-uſe that excel<g ref="char:EOLhyphen"/>lent gift of writing and hearing of ſermons? what, but a pro<g ref="char:EOLhyphen"/>phanation of the Lords day, by abuſing that holy time to ſuch malicious and wicked ſervices, baſe, and unworthy any man, whoſe face but ſeemes to looke towards Heaven, and argues graceleſſe hearts, and destitute of the feare of God, put they on what vizour of Hypocriſie and forme of godli<g ref="char:EOLhyphen"/>neſſe ſoever is pleaſing to them? Certaine it is that wrath, fury, malice, ſlandering, are not the way to Heaven, neither let men thinke that theſe distempers be religious zeal, or zeal for Religion, or the power of godlineſſe, as many it ſeemes doe think, but doe deceive their owne ſoules, it be<g ref="char:EOLhyphen"/>ing but the <hi>efficacy of Satan,</hi> and of the remaining corrup<g ref="char:EOLhyphen"/>tions of our depraved nature, <hi>The wrath of man doth not accompliſh that which is righteous in the eyes of God, Iam. 1.20.</hi> Neither doth his Majeſty ſtand in need of the unmortified diſtempers of our hearts to advance his cauſe or glory, which we may blaſt by actions unſuitable to Religi<g ref="char:EOLhyphen"/>on, but cannot beautifie nor adorne thereby. Theſe things conſidered, I determined to deliver mine owne ſenſe in mine owne words, thereby to stop the mouthes of all <hi>Diaboliſts,</hi> and to ſtand, or to fall of mine owne ſelfe to my Reader. I have, as neere as my memory would ſerve me, in things de<g ref="char:EOLhyphen"/>livered
+<pb facs="tcp:124329:5"/>in the birth of this Sermon, over and above the first conceptions of it committed to writing, kept to the words I then ſpake, if there be any variation, it is but ſmall, and in nothing materiall; only I have added ſome ſmall matter in a place or two, not differing fro<g ref="char:cmbAbbrStroke">̄</g>, but inlarging the ſame things, but have defaulked nothing. <hi>In theſi</hi> I know I ſhall have the concurring conſent of all men, except ſuch as love or live by fighting. <hi>In hypotheſi</hi> commonly fals the ods, if any be be<g ref="char:EOLhyphen"/>tween a Preacher &amp; his hearers; becauſe the applications ſome time brings home the doctrin, with a kind of ſalt and vine<g ref="char:EOLhyphen"/>ger, that troubles and vexes a galled and a guilty heart: For when it comes to <hi>Thou art the man,</hi> there be few hearers found like <hi>David, 2 Sam. 12.5.7.13.</hi> The caſe of <hi>Ploudens</hi> hogs ſuits well with many hearers, that touched in their con<g ref="char:EOLhyphen"/>ſciences come grunting with open mouth upon the Preacher, as they would all to rend him, in recompence for the pearls he hath caſt unto them. I have only applyed my ſelfe in a ge<g ref="char:EOLhyphen"/>ner all way, leaving every man to his own heart, to feele his own pulſe, and excited to that which ought to be the ſtudy &amp; practice of every Chriſtian, in reſpect of the preſent perillous days it hath pleaſed God to caſt us into, that we may be helpful to the Peace of our diſtreſſed Nation, or provide for our own Peace and ſafety, that we miſcarry not in the extremity of the confuſions that we may live to ſee. I comend it to thy reading, accept it as thou pleaſeſt. I commend it and thee to Gods bleſ<g ref="char:EOLhyphen"/>ſiſsing, who is he alone that teacheth us to profit by any thing, and reſt</p>
+            <closer>
+               <signed>
+                  <hi>In my affections thy well wiſher, in thy affections what thou wilt,</hi> Ephraim Vdall.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:124329:5"/>
+            <head>The Good of Peace and Ill of VVarre, Set forth in a Sermon preached in the <hi>Cathedral</hi> Church of S. <hi>Paul,</hi> the laſt day of <hi>July,</hi> 1642.</head>
+            <epigraph>
+               <bibl>
+                  <hi>PSAL. 29.11.</hi>
+               </bibl>
+               <q>The Lord will bleſſe his people with Peace.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalme is <hi>Hortatory,</hi> ſtirring up to the praiſes of God.</p>
+            <p>And it is <hi>Laudatory,</hi> ſetting forth and celebrating the power and greatneſſe of God, for which he is to be praiſed.</p>
+            <p>And laſtly it is <hi>Conſolatory,</hi> in regard of two bene<g ref="char:EOLhyphen"/>fits or bleſſings, which are promiſed in it for Gods people.</p>
+            <p>The firſt is <hi>Strength,</hi> which he will furniſh them with<g ref="char:EOLhyphen"/>all for War againſt their enemies: in the former part of this verſe.</p>
+            <p>The ſecond is <hi>Peace,</hi> the choyceſt of all bleſſings: which is promiſed in theſe words, <hi>The Lord wil bleſſe his people with Peace.</hi>
+            </p>
+            <pb n="2" facs="tcp:124329:6"/>
+            <p>Peace is the happy end of all accurſed and unhappy contentions, and that that is the deſire of all men, after they have been well ſchooled in the worth of it by the calamities of War.</p>
+            <p>But miſerable it is to ſee, men will not know, nor ac<g ref="char:EOLhyphen"/>knowledge the benefit of it ſo much <hi>Fruendo,</hi> by in<g ref="char:EOLhyphen"/>joying it, as <hi>Carendo,</hi> by wanting it.</p>
+            <p>Gods choyceſt favors are leaſt ſet by by them that poſ<g ref="char:EOLhyphen"/>ſeſſe them, without the leaſt taint or ſtaine of their con<g ref="char:EOLhyphen"/>trary evils, and the fulneſſe of bleſſings gives men ſuch ſaciety, that by injoying they grow unto a loathing of that that did they want, they would thinke themſelves happy if they might enjoy.</p>
+            <p>The comelieſt Lady in the world by time and age grows wrinkled; and then ſhe that was the inamouret of all, becomes undeſired of many, and ſome time the goodlyeſt beauty in the world is quite diſdained, and an ugly and deformed creature ſubſtituted in thoſe affe<g ref="char:EOLhyphen"/>ctionate embraces that are due to that beauty.</p>
+            <p>Which comes to paſſe through ſome untoward luſt, or impotent and diſordered paſſion, and to mens admi<g ref="char:EOLhyphen"/>ration, that a man ſhould contemne a creature that might content the beſt of men, for the ſtolne waters and mud<g ref="char:EOLhyphen"/>dy puddles of a deformed hag and harlot.</p>
+            <p>Iuſt ſo it fares with many men and peace: That goodly Lady whoſe beauty hath been wooed and deſi<g ref="char:EOLhyphen"/>red, ſometime by men of all conditions, and bought ſometime upon diſhonorable termes, by great and noble Captaines and famous Commanders, weakned, wearied and waſted by War.</p>
+            <pb n="3" facs="tcp:124329:6"/>
+            <p>This Lady Peace of whom it was ſaid anciently, <hi>Pa<g ref="char:EOLhyphen"/>cem te poſcimus omnes,</hi> all of us are in love with Peace, is now by age and long continuance with us become ſo writhen and wrinkled in the eyes of ſome, that they be<g ref="char:EOLhyphen"/>gin to loath her company, and ſeeme to turne after, and doat upon that ugly hag of ſtrife, contention, war, that as all other harlots in the end, will bring her lovers to a morſell of bread.</p>
+            <p>But all this comes from ſome diſtempered and noy<g ref="char:EOLhyphen"/>ſome paſſion, which we ſhall ſeek to cure and heale by diſcourſing of this beautifull daughter of God, for Peace is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the daughter of God, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Peace of God, who may ſay of his favours, as <hi>Juro</hi> did to <hi>Aeolus</hi> of her Nymphs,
+<q>
+                  <l>Sunt mihi bis ſeptem praeſtanti corpore Nymphae,</l>
+                  <l>Quarum quae forma pulcherrima Deiopeiam</l>
+                  <l>Connubio jungam ſtabili, propriámque dicabo,</l>
+                  <l>Omnes ut tecum—annos</l>
+                  <l>Exigat, &amp; pulchrâ faciat te prole parenteno.</l>
+               </q> I have fourteen Nymphs, the faireſt whereof is <hi>Deiopeia</hi> which I will give in marriage to thee, that ſhe may live all her dayes with thee, and make thee the father of a numerous off-ſpring: So God hath many favours, but the chiefeſt of them is Peace, the faireſt often thouſand; and ſuch hath been his love and goodneſſe to this Na<g ref="char:EOLhyphen"/>tion that he hath married us to Peace in a moſt ſtable and long continued contract, and to impropriate her un<g ref="char:EOLhyphen"/>to us in reſpect of other Nations, and if by our diſtem<g ref="char:EOLhyphen"/>pers we do not put her away, or by our ſins procure a
+<pb n="4" facs="tcp:124329:7"/>divorce, he will continue this his choyceſt Iewell ſtill among us, as it is here promiſed, <hi>The Lord will bleſſe his people with Peace.</hi>
+            </p>
+            <p>In the Text we have three things.</p>
+            <p>Firſt, the <hi>Bleſsing, Peace.</hi>
+            </p>
+            <p>Secondly, the <hi>Author</hi> of that bleſſing, the Lord.</p>
+            <p>Thirdly, <hi>thoſe that be bleſſed</hi> of him with it, his people.</p>
+            <p>And anſwerably there be three obſervations.</p>
+            <p>Firſt, Peace is a bleſſing upon Gods people.</p>
+            <p>Secondly, God is the author of it, and gives it to his people.</p>
+            <p>Thirdly, thoſe that may expect it and have the pro<g ref="char:EOLhyphen"/>miſe of it, are his people.</p>
+            <p>But I will contract and bind up all the Doctrinal part in this one bundle, as the Spouſe in the <hi>Canticles</hi> ſaid of her Beloved, He was <hi>like a bundle of Mirrhe, he ſhould lodge between her breaſts:</hi>
+            </p>
+            <p>So I ſhall lodge that bundle in your breaſts, deſi<g ref="char:EOLhyphen"/>ring the aromatick ſavour of it may as a bundle of the choyceſt flowers, or a moſt delightfull pomander, be alwayes fragrant and redolent in the noſtrils of your hearts, and that is this,</p>
+            <p>
+               <hi>Peace is a bleſsing, a rare and pretious favour and mercy of God unto his people,</hi> Eſay 54.13. Eſay 66.12. and in in<g ref="char:EOLhyphen"/>finite places of the Scripture.</p>
+            <p>There is a threefold peace, <hi>Externa, Interna, Aeter<g ref="char:EOLhyphen"/>na;</hi> Temporall, Spirituall, Coeleſtiall Peace; there is outward peace, the <hi>Bleſsing:</hi> inward peace, the <hi>Grace:</hi> and everlaſting <hi>peace of Glory.</hi>
+            </p>
+            <p>And as in a ſtately Palace there is a lodge or court
+<pb n="5" facs="tcp:124329:7"/>that leades into the inmoſt goodly roomes, ſo exter<g ref="char:EOLhyphen"/>nall Peace is the entrance or introduction to the inward lodgings of the ſweet Peace of conſcience, &amp; of that e<g ref="char:EOLhyphen"/>ternal reſt in which our peace in Heaven ſhall be happy, inaſmuch as externall peace affords us many accommo<g ref="char:EOLhyphen"/>dations and helps to the gaining and obtaining both of the one and other.</p>
+            <p>Now this Externall Peace I ſhall diſcourſe of only at this time. The outward Peace in this world, which fals under a double notion, according to a double ſtate of men in the world.</p>
+            <p>Firſt, there is a <hi>Civill Peace,</hi> in regard of the civill ſtate of men, as they be men only, and are knit together in civill ſociety in one Kingdom or Common-wealth, under one King, Governour or government, and bound in the bond of the ſame Laws, the ſinews of their Peace and welfare.</p>
+            <p>Secondly, there is an <hi>Eccleſiaſticall Peace,</hi> as men fall under the notion of Chriſtian men, and are knit toge<g ref="char:EOLhyphen"/>ther in an Eccleſiaſticall ſtate, and in the bond of Reli<g ref="char:EOLhyphen"/>gion, and the ſame profeſſion of Faith and manner of Worſhip in one body or Church, wherof Chriſt is the head, and the Magiſtrate his vicegerent, and the Scri<g ref="char:EOLhyphen"/>ptures the ſinews of their peace, by precept for things neceſſary, by permiſſion for things of decency not com<g ref="char:EOLhyphen"/>manded or determined in Scripture, but left to the diſ<g ref="char:EOLhyphen"/>cretion of the Magiſtrate, whoſe <hi>Laws</hi> in theſe things are the <hi>Bonds</hi> of outward peace.</p>
+            <p>But of this <hi>Eccleſiaſticall Peace,</hi> although I have had many thoughts, at this time I will make no words: the many things I have to ſpeake concerning the peace
+<pb n="6" facs="tcp:124329:8"/>of the common wealth ſo overcumbring me, that time will bee too niggardly and cloſe-handed to mee for the other purpoſe, <hi>inopem me copia fecit.</hi>
+            </p>
+            <p>I ſhall therefore at this time only diſcourſe of civill peace of men, as men living together in one Common<g ref="char:EOLhyphen"/>wealth under one King and governour, bound up in the ſame Lawes, the bonds and ſinews of peace.</p>
+            <p>To this peace are oppoſite all <hi>civill diſſentions and contentions</hi> in the outward ſtate of things, which uſu<g ref="char:EOLhyphen"/>ally break forth into, and end in the <hi>troubles and confu<g ref="char:EOLhyphen"/>ſions of warre,</hi> the greateſt and extreameſt oppoſite of peace.</p>
+            <p>The excellency of this civill peace the <hi>Pſalmiſt</hi> ſets forth excellently in two words, <hi>Pſal.</hi> 133. 1. <hi>How good and pleaſant a thing it is brethren to dwell together in Unity, that is, in Peace!</hi>
+            </p>
+            <p>
+               <hi>Quam bonum,</hi> ſaith hee, <hi>&amp; quàm jucundum, how good and pleaſant!</hi>
+            </p>
+            <p>Some things are <hi>good, but they are not pleaſant,</hi> as the afflictions of this life layd on us by God, by way of chaſtiſement and correction, which though they prove profitable being ſanctified to men by God, and bring forth in the end <hi>the peaceable fruit of righteouſnes to them that be exerciſed therein; yet for the preſent they are not joyous but grievous,</hi> Heb. 12.11.</p>
+            <p>
+               <hi>Some things are pleaſant but they are not good,</hi> as the delights and contentments of our ſenſuall appetite, ſo far as it is carried after the looſe and licencious ſwinge of our corrupted and depraved nature: for though <hi>Epicurus,</hi> and <hi>Aristippus</hi> may place their felicity in the pleaſure of the ſenſe, and although God hath gi<g ref="char:EOLhyphen"/>ven
+<pb n="7" facs="tcp:124329:8"/>us many things contentive thereunto, yet unleſſe the delights thereof bee regulated, and the content<g ref="char:EOLhyphen"/>ments thereof moderated, and the raynes of our licen<g ref="char:EOLhyphen"/>cious appetite reſtrained, though there be pleaſure in <hi>fulfilling the luſts of the fleſh, yet there is no goodneſſe therein;</hi> nor differs a reaſonable man any thing therein from the brute beaſt that periſheth: which made the Poet ſay</p>
+            <p>
+               <hi>Compedibus ventrem, vinclis conſtringe lienem:</hi> and the Apoſtle, <hi>Rom.</hi> 13.14. <hi>Make no proviſion for the fleſh to fulfill the lusts thereof.</hi>
+            </p>
+            <p>
+               <hi>Some things are neither good nor pleaſant,</hi> as <hi>envy, ha<g ref="char:EOLhyphen"/>tred, malice,</hi> the maine vertues and ingredients at this time of ſome mens zeal that would be thought religi<g ref="char:EOLhyphen"/>ous.</p>
+            <p>Some things are <hi>both good and pleaſant,</hi> as all kind of vertue, honeſty, charity, mercy, and of this nature is peace: which made <hi>Henry</hi> the ſecond of that name King of <hi>England,</hi> though hee were a valiant and cou<g ref="char:EOLhyphen"/>ragious Prince, and alwayes fortunate and ſucceſſefull in his warres, yet to preferre peace before warre, <hi>becauſe he found it more full of pleaſure and of profit, than the Warres.</hi>
+            </p>
+            <p>The excellency of <hi>civill peace</hi> I ſhall endeavour to ſet before you in two things.</p>
+            <p>Firſt, in the many <hi>commodities it brings with it,</hi> for it never comes alone, but as that ſtately Queene of <hi>Carthage</hi> came forth to entertaine her <hi>Trojan Guest Aeneas, —Magnâ ſtipante catervâ,</hi> A numerous company of gliſtering Courtiers waiting on her: ſo peace is alwayes accompanied and attended by a
+<pb n="8" facs="tcp:124329:9"/>goodly traine of bleſſings, and as <hi>Juno's Deiopeia,</hi> if thou enjoy her ſhe will fill thee with many other bleſſings and contentments, as an off-ſpring begotten on her; <hi>pulchrâ faciet te prole parentem.</hi>
+            </p>
+            <p>In peace <hi>huſbandry</hi> flouriſheth, for the comfortable proviſion of things needfull for humane life,
+<q>Pax Cererem nutrit, pacis alumna Ceres,</q> Saith <hi>Ovid:</hi> and another Poet,
+<q>
+                  <l>—Pax arva colit, pax candida primùm</l>
+                  <l>Duxit aratores ſub juga curva boves,</l>
+               </q> Peace nouriſheth <hi>Ceres,</hi> whom the Heathens honoured as a Goddeſſe, becauſe ſhe firſt deviſed the ſowing of corne; and <hi>Ceres</hi> is the daughter of Peace, in which the plowing Oxen were firſt taught to ſubmit their neckes unto the crooked yoke; in which reſpect al<g ref="char:EOLhyphen"/>though the peace of the ſoveraignty and rule of Chriſt be inward and ſpirituall in the heart and conſcience, yet it was propheſied by <hi>Micah</hi> 4.3.4. that when hee ſhould <hi>judge among the people, i. e.</hi> reigne and rule by the Goſpell, <hi>hee ſhould rebuke ſtrong Nations a farr off, and they ſhall breake their ſwords into Plow-ſhares, and their ſpeares into pruning-hookes: Nation ſhall not riſe up against Nation, neither ſhall they learne warre any more, but they ſhall ſit every man under his vine, and every man under his fig-tree,</hi> and Eſay 11.6. <hi>The Wolfe ſhall dwell with the Lamb,</hi> &amp;c. 9. <hi>They ſhall not hurt or destroy in all mine holy mountaine, for the Earth ſhall be full of the knowledge of the Lord;</hi> For Chriſts Kingdome is a Kingdome of peace, and his Goſpell and Scepter a Goſpell and Scepter of peace.</p>
+            <q>
+               <pb n="9" facs="tcp:124329:9"/>Emollit mores nec ſinit eſſe feros.</q>
+            <p>In time of peace all <hi>Trades, and Arts, and honest Occu<g ref="char:EOLhyphen"/>pations</hi> are exerciſed without moleſtation, whereby men are increaſed into abundance, poſſeſſing the ſame with content and comfort, <hi>concordiâ res parvae creſcunt,</hi> by peace ſmall things become great, mens pence are increaſed into ſhillings, and ſhillings into pounds, and he that came naked into the world and a poore lad to <hi>London,</hi> by his trade in times of peace multiplies his few pounds into hundreds, and his hundreds into thou<g ref="char:EOLhyphen"/>ſands.</p>
+            <p>In peace we injoy our <hi>owne propriety</hi> without vio<g ref="char:EOLhyphen"/>lent ſharers with us, and can call that we have our own, <hi>eating our grapes under our owne vines, and our figs un<g ref="char:EOLhyphen"/>der our own fig-trees,</hi> giving good education to our chil<g ref="char:EOLhyphen"/>dren, ſending them forth in the dance, and breeding them up to the <hi>ſimilitude of the poliſhed corners of a Pa<g ref="char:EOLhyphen"/>lace, when there is no going out nor comming in,</hi> Pſal. 144.</p>
+            <p>In peace we injoy ſuch <hi>honour</hi> as is conferred on us for wealth or merit, by God and by the King, whereby the Noble are held in due eſteeme and diſtinguiſhed from the baſe.</p>
+            <p>In peace as <hi>wholſome Lawes</hi> are inacted, ſo are they put in execution, and maintained in their ſtrength and vigor, and civill Magiſtrates that beare the ſword, <hi>beare it not in vaine,</hi> but as God hath ſtamped upon them his image, ſo are they obeyed, and had in honour according to his will.</p>
+            <p>In peace <hi>Learning flouriſheth,</hi> the Vniverſities and
+<pb n="10" facs="tcp:124329:10"/>Schooles of the Prophets are erected, augmented, fre<g ref="char:EOLhyphen"/>quented, maintained, cheriſhed and honoured to the advancing of good literature, (not the ſmalleſt honour of a Nation) in which reſpect the Ancients Hierogly<g ref="char:EOLhyphen"/>phically repreſented peace and learning by the <hi>Gowne,</hi>
+               <note place="margin">
+                  <hi>Pier.</hi> Hierog.</note> as they did war by the <hi>ſouldiers caſſock,</hi> and gave this ſentence for the excellency of the one above the other, <hi>cedant arma togae,</hi> let armes give place to Arts, and warre to peace.</p>
+            <p>In peace the <hi>houſes of God are open</hi> in ſeaſon and out of ſeaſon, that the Tribes may quietly and ſafely goe up thither to worſhip, even the Tribes of the Lord, and men may tread the wayes of Sion, and frequent her ſolemne feaſts, to be fed with the fatneſſe of Gods houſe, and the plenty of his dwelling place, and may attend the meanes of their ſalvation in the wayes that leade to grace and glory.</p>
+            <p>And in one word, all worldly deſirable bleſſings are in this one bleſſing, peace, and doe acccompany and attend upon her; which made the Pſalmiſt ſay, <hi>Pſalm.</hi> 133.3. <hi>where men doe dwell together in unity, there the Lord hath appointed bleſsing and life for evermore.</hi>
+            </p>
+            <p>Secondly, the <hi>excellency of peace</hi> will appeare by the <hi>vileneſſe</hi> and <hi>deformity of warre,</hi> which is her con<g ref="char:EOLhyphen"/>trary, <hi>contraria juxta ſe poſita,</hi> &amp;c. contraries ſet one by the other are the more clearely diſcerned.</p>
+            <p>What <hi>miſchiefe</hi> doth not accompany warre? for it never comes alone, but is attended upon by all the ima<g ref="char:EOLhyphen"/>ginable evills that bee in the world, which like thoſe <hi>Eumenides,</hi> the hags and furies of Hell doe agitate and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men to their deſtruction, as the <hi>horſe fly</hi> doth
+<pb n="11" facs="tcp:124329:10"/>the cattell, when the Dog-ſtarre reignes in Sum<g ref="char:EOLhyphen"/>mer.</p>
+            <p>Warre is a thing of mighty <hi>hazard</hi> to all kinds of perſons, and things that bee in the world, the iſſues, and changes, and chances of it are moſt uncertaine, there<g ref="char:EOLhyphen"/>fore the anci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Romans (that knew as much of the ſlippery trickes of warre as ever any people under hea<g ref="char:EOLhyphen"/>ven) called the event of it, <hi>alea Martis,</hi> becauſe when the battell is joyned, the iſſue of it is as uncertaine, as when the Die is throwne what chance ſhall turne upward.</p>
+            <p>Which made the King of <hi>Iſrael</hi> check the inſolent boaſting of proud <hi>Benhadad</hi> with this ſpeech, <hi>let not him that putteth on his Armour boaſt as he that puts it off,</hi> 1 <hi>King.</hi> 20.11. <hi>The horſe is prepared for the battell, but ſafety is of the Lord,</hi> ſaith the Wiſe man <hi>Solomon,</hi> Prov. 21.31.</p>
+            <p>In warre there is <hi>hazard of all particular perſons,</hi> be they who they will be, the ſword neither regarding the honourable nor the baſe, the learned nor unlearned, the wealthy nor the poore, the wiſe man nor the Ide<g ref="char:EOLhyphen"/>or, the innocent nor the wicked; there is no reſpect of perſons, <hi>but it killeth one as well as another,</hi> as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid in his letter to <hi>Joab</hi> upon the ſlaughtor of <hi>Uriah,</hi> 2 <hi>Sam.</hi> 11.25.</p>
+            <p>Wee reade, 1 <hi>King</hi> 22.34. when <hi>Ahab</hi> warred at <hi>Ramoth Cilead, a certaine man drew a bow at adven<g ref="char:EOLhyphen"/>ture and ſmo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the King of Iſrael betweene the joynts of his brigandine, being in his Chariot:</hi> here is every thing emphaticall to ſet forth the miſerable chance of warre: firſt, a <hi>certaine man,</hi> an obſcure fellow, God knowes
+<pb n="12" facs="tcp:124329:11"/>who, not worth the naming, <hi>drew a bow at adventure,</hi> light where it will light, hee ſhootes at random and aymes at no man, but ſmites <hi>the King of Iſrael,</hi> the baſeſt coward or villaine peradventure in the Army of the <hi>Syrians</hi> ſmites the nobleſt on the adverſe party; <hi>a bow-man hits the King in his Chariot, and betweene the joynts of his brigandine,</hi> the onely place to wound him, had hee been neere and ſearched at leiſure for a place to peirce him.</p>
+            <p>Here therefore in warre the <hi>Lords anointed, that is better than ten thouſands,</hi> may fall as ſoone as the baſeſt and moſt uſeleſſe creature, to the great hazard of a ſtate, and to the great ſinne of thoſe that ſhall expoſe his Royall Perſon to that danger: which made the loy<g ref="char:EOLhyphen"/>all people of <hi>David</hi> to ſay, when <hi>Iſhabenob</hi> the Giant, in a battell wherein <hi>David</hi> was weake, had like to have ſlaine <hi>David,</hi> but that ſome of his Worthies reſcued him from that danger, <hi>thou ſhalt no more goe forth with us to battell, lest thou quench the light of</hi> Iſrael, 2 <hi>Sam.</hi> 21.17. <hi>for thou art better than ten thouſands of us,</hi> 2 <hi>Sam.</hi> 18.3. nay not onely the people of <hi>David,</hi> but the Prophet of the Lord. <hi>Lam.</hi> 4.20. ſpeaking of a King, and none of the beſt neither, among other things he laments, makes this one maine part of his ſorrow and mourning, <hi>the breath of our nostrills the Lords annointed, under whoſe ſhaddow we had reſt, was taken in their pit,</hi> that is, by the hands of the Babylo<g ref="char:EOLhyphen"/>nians in their war againſt <hi>Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Marke</hi> here the phraſes concerning the King, <hi>bet<g ref="char:EOLhyphen"/>ter than ten thouſands of us,</hi> the <hi>light of Iſrael,</hi> in the mouthes of loyall people ſet forth in the Scripture for
+<pb n="13" facs="tcp:124329:11"/>their commendation, and our imitation; <hi>the breath of our nostrills, under whoſe ſhadow wee had reſt,</hi> ſo is the language of the Prophet inſpired by the Spirit of God, though men have mouthes at preſent, that like black mouthed <hi>Cerberus,</hi> breathe and barke from Hell ano<g ref="char:EOLhyphen"/>ther language.</p>
+            <p>In war is <hi>hazard of whole Armies,</hi> and of <hi>Kingdomes</hi> that depend upon their Armies ſucceſſe. <hi>Victory</hi> be<g ref="char:EOLhyphen"/>ſtowes not her ſelfalwayes to one ſide and party; <hi>The battell is not alwayes to the moſt righteous, it is not alwayes to the ſtrongest,</hi> Eccle. 9.11. But as <hi>Noahs dove</hi> lay hovering over the waters, not knowing where to reſt her foot, ſo when a battell is joyned, <hi>victory</hi> hovers ſometimes long, inclining one while to the one, ano<g ref="char:EOLhyphen"/>ther to the other, uncertaine where to light, and ſet<g ref="char:EOLhyphen"/>tles ſometimes on the one, ſometimes on the others ſword.</p>
+            <p>
+               <hi>A gag</hi> that by his conquering ſword had <hi>made ma<g ref="char:EOLhyphen"/>ny women childleſſe,</hi> was taken priſoner at the laſt by <hi>Saul,</hi> and hewen in peices by the ſword of <hi>Samuel,</hi> and his <hi>mother made childleſſe among women,</hi> 1 Sam. 15.33. <hi>A doni-bezeck</hi> that had overcome threeſcore and ten Kings, and cut off their thumbs from their hands and feete, and made them eat bread like dogs under his table, was taken captive himſelfe by the tribe of <hi>Judah,</hi> and retaliated by them, <hi>Judg.</hi> 1.7.</p>
+            <p>
+               <hi>The five Kings</hi> that warred againſt the King of <hi>Sodome</hi> and his confederates, diſcomfited them and carried away the ſpoyle of <hi>Sodome</hi> and <hi>Lot Abrahams</hi> Ne<g ref="char:EOLhyphen"/>phew alſo, but <hi>Abraham</hi> arming three hundred and eighteene of his houſhold ſervants, purſued theſe five
+<pb n="14" facs="tcp:124329:12"/>Kings, and overthrew them in battell, and recovered <hi>Lot,</hi> with all the ſpoyle they had carried away as a booty, <hi>Gen.</hi> 14.11.15.</p>
+            <p>The <hi>Amalekites</hi> invaded <hi>Ziklag,</hi> ſpoyled the City, and carried away <hi>David's</hi> Wives and all the ſubſtance of his people; but <hi>David</hi> and his people purſuing them, defeated them, and recovered back all they had carried away from <hi>Ziklag,</hi> 1 <hi>Sam.</hi> 30.1.17.</p>
+            <p>In the warres betweene <hi>France</hi> and <hi>England</hi> upon our pretenſions to that Crowne, wonderfull were the different chances of warre, the one ſometimes gaining on the other glorious victories, and put at other times to ſhamefull flight and loſſe: that noble and vi<g ref="char:EOLhyphen"/>ctorious Prince <hi>Henry</hi> the fift ſo put that Kingdome to diſtreſſe by his victorious conqueſts, and forced the King to ſuch extre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, that marrying his daughter, beſides thoſe provinces that he injoyed in preſent poſ<g ref="char:EOLhyphen"/>ſeſſion, it as agreed upon, that after the French Kings death, he ſhould inherit the <hi>Crowne of France,</hi> by Oath of all the Nobles and cheife Cities of the Kingdome, and ſo it was proclaimed in <hi>England</hi> and in <hi>France</hi>
+            </p>
+            <p>But <hi>Henry the ſixt</hi> his ſonne loſt all his Father had obtained; which <hi>Henry</hi> the Father, by what ſpirit I know not did fore-propheſie; for when newes was brought him of the birth of his ſonne <hi>Henry</hi> borne at <hi>Windſor,</hi> hee preſently ſaid, I Henry <hi>borne at Moun<g ref="char:EOLhyphen"/>mouth ſhall reigne a ſhort time and gaine much; but</hi> Hen<g ref="char:EOLhyphen"/>ry <hi>horne at Windſor ſhall reigne long and loſe all,</hi> which fell out very true by the differing chance of warre.</p>
+            <p>
+               <hi>Henry</hi> the third in the Barons warres, at the battell
+<pb n="15" facs="tcp:124329:12"/>of <hi>Lewis</hi> in <hi>Suſſex</hi> was overthrowne by them: but in the battell of <hi>Everſham</hi> in <hi>Worcesterſhire</hi> bee defeated his <hi>Barons,</hi> becauſe the Conqueror, and rid his neck from the yoke of the twelve Peers, that had been put upon him, and had a long time beene grievous to him.</p>
+            <p>Thus in the long and tedious warres betweene the two houſes of <hi>Yorke</hi> and <hi>Lancaster,</hi> the differing chang<g ref="char:EOLhyphen"/>es of the war were many; ſometimes one, ſometimes the other faction prevailing in the field; and ſome<g ref="char:EOLhyphen"/>times one, ſometimes the other wearing the <hi>Imperiall Crowne,</hi> till all on either ſide were as weary of the war, as many wanton men are now of peace.</p>
+            <p>All the great <hi>Monarchies</hi> of the world, as they roſe, ſo they fell and were ruined by warre; as the Prophet, <hi>Iere.</hi> 50.23. inſtanceth in that great one, <hi>Babylon,</hi> ſaying, <hi>how is the hammer of the whole earth out aſunder and bro<g ref="char:EOLhyphen"/>hen? how is Babylon become a deſolation among the Nati<g ref="char:EOLhyphen"/>ons? In warre</hi> ſometime where <hi>strength, and policy, and ſhill, and courage,</hi> and all things needfull for the war concurre, yet theſe prevaile not, but the <hi>weakeſt, the unſkilfuleſt, the femeſt and moſt unfurniſhed</hi> of milita<g ref="char:EOLhyphen"/>ry accommodations goe away with the victory; and ſometimes <hi>might</hi> overcomes <hi>right,</hi> and the moſt wicked winne the field, when God will chaſten a people (for other ſinnes) that have a righteous cauſe.</p>
+            <p>There is no greater evill and affliction in the world than War, for it is attended upon by all the evils of pu<g ref="char:EOLhyphen"/>niſhment that God inflicts upon men for their iniquities. And therefore in Scripture, when God is ſo offended that he purpoſeth the utter mine and deſolation of a fa<g ref="char:EOLhyphen"/>mily,
+<pb n="16" facs="tcp:124329:13"/>City or Nation, this is the judgment that he ſets on foot to that purpoſe.</p>
+            <p>
+               <hi>By the Wars of the Philiſtims</hi> upon <hi>Saul,</hi> he put an end to <hi>Sauls</hi> life and Kingdom.</p>
+            <p>
+               <hi>By the Wars of Jehu</hi> upon <hi>Ahab,</hi> he ſwept away the houſe of <hi>Ahab</hi> as dung from the face of the earth.</p>
+            <p>
+               <hi>By the Wars of the Syrians</hi> upon <hi>Samaria,</hi> that City was brought to that calamity, that women did eat thier children by courſe, to ſatisfie their hungry ſoules, and fed and ſuſtained their dying lives with the dung of Doves, a thing that nature loathes.</p>
+            <p>
+               <hi>By the Wars of Nabuchadnezzar</hi> upon <hi>Jeruſalem,</hi> that City was brought to that extremity, that the beautifull women <hi>(the ſole of whoſe foot might not touch the earth)</hi> ſuch was their nicety and tenderneſſe, did make their own <hi>Bowels the ſepulcher,</hi> for their children of a <hi>ſpan long,</hi> the fruits of their own bodies.</p>
+            <p>And when it had been reedified by <hi>Zerobabel</hi> and the reſt of the reduct of the captivity, by the wars of the <hi>Romans,</hi> under the conduct of <hi>Titus and Veſpaſian,</hi> it was brought unto as great miſery, and after taken and raſed to the ground, and the people ſold by the poll for ſlaves, and to this day remaine miſerably diſperſed up<g ref="char:EOLhyphen"/>on the face of the earth.</p>
+            <p>
+               <hi>Troy, the most famous City</hi> of the World, the ſubject of the ſong of <hi>Homer,</hi> the oldeſt writer in the world, except <hi>Moſes</hi> that wrote 500 years before him, by the wars of the <hi>Greeks</hi> was ruined and turned into a tilled field,
+<q>Jamſeges est ubi Troja fait.—</q> And now corne grows where <hi>Troy</hi> Town ſtood.</p>
+            <pb n="17" facs="tcp:124329:13"/>
+            <p>
+               <hi>The Canaanites,</hi> the <hi>Hittites,</hi> the <hi>Amorites,</hi> the <hi>Hiui<g ref="char:EOLhyphen"/>tes</hi> and <hi>Pereſites,</hi> the <hi>Gigaſites,</hi> great and mighty Nati<g ref="char:EOLhyphen"/>ons, who had <hi>walled Cyties, and Chariots of Iron, and the ſons of Anack,</hi> mighty men among them, were ſpewed out of their land by the war of the <hi>Iſraelites</hi> up<g ref="char:EOLhyphen"/>on them, <hi>Joſh.</hi> 12.</p>
+            <p>War brings the Screech Owle and the Dragon in<g ref="char:EOLhyphen"/>to the moſt beautifull and goodly Palaces, laying them as deſolate wilderneſſes, full of briars and thornes, and makes them habitations for Satyres, the wild beaſts of the Iſlands and other the moſt dolefull creatures, <hi>Eſay</hi> 13.21.</p>
+            <p>Yea, when war enters into the Congregation of God, the very <hi>Temples of God are broken down with axes and hammers,</hi> Pſa. 74.4. Even that very Temple that was the <hi>beauty &amp; glory of the world,</hi> was burn'd by <hi>Nabuchad<g ref="char:EOLhyphen"/>nezzar</hi> with fire, 2 <hi>King.</hi> 25.9. which made the Pro<g ref="char:EOLhyphen"/>phet <hi>Eſay</hi> thus complaine, <hi>Eſay</hi> 64.11. <hi>Our holy and beautifull houſe, wherein our Fathers praiſed thee, is burnt up with fire and all our pleaſant things laid wast. And the</hi> Daughters ran the ſame fortune with their <hi>Mother, Pſa.</hi> 74.7. <hi>They have caſt fire into thy Sanctuary, and defiled the dwelling place of thy Name to the ground, they have burnt up all the Synagogues of God in the Land:</hi> Thus by War <hi>the holy Cities of Jury became a wilderneſſe, and Zion a deſolation,</hi> Eſay 64.10.</p>
+            <p>And no marveile, for when great Armies are got on foot, wherein are men for the greater part of them moſt impious and licentious in their violent luſt, what can be imagined, but outrage and villany?</p>
+            <p>Here is nothing but robbery and ſpoyle, all is fiſh
+<pb n="18" facs="tcp:124329:14"/>that comes to net, <hi>per fas per nefas,</hi> by hooke or crooke, all is one.</p>
+            <p>In war there is a continuall ſqueezing of the Spungt that ſucked up abundance in the time of Peace, trea<g ref="char:EOLhyphen"/>ſures are exhauſted, plate<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> turned into earthen diſhes, and people mightily inpoveriſhed by the expenſive op<g ref="char:EOLhyphen"/>preſſion of war.</p>
+            <p>In War trading decayes, lands lie untilled, and briars grow up inſtead of corne, Merchandize by exportation and Importation ceaſe, Cities are unfrequented, like the wayes in <hi>Juels</hi> time, and are made deſolate and waſte, <hi>Et diſcordiâres magnae dilabuntur,</hi> by war and diſcord great things are brought to nothing.</p>
+            <p>
+               <hi>In war Wives are made Widdows,</hi> Children Fatherleſſe, Parents childleſſe, Friends friendleſſe, <hi>And in civill Wars,</hi> the moſt <hi>uncivill and barbarous</hi> of all other, the father often fights againſt the ſon, and the ſon againſt the father, and a mans enemies are thoſe of his owne houſe and bloud, ſo that one brother becomes the but<g ref="char:EOLhyphen"/>cher of another, and the ſlaughters are moſt unkindly and unnaturall, all bonds of affinity, conſanguinity and humanity being violently broken and cut aſunder: as in thoſe civill wars between the houſes of <hi>Saul</hi> and <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> betwixt <hi>Iſrael</hi> and <hi>Judah,</hi> betwixt <hi>York</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> in which the brother hath ſought againſt the brother, and the Kings own friends have been forced into the field againſt him, and have died in that fight, in which they have been but faint enemies to him, and to which they were altogether unwilling.</p>
+            <p>
+               <hi>In theſe uncivill civill Wars,</hi> moſt wofull are the de<g ref="char:EOLhyphen"/>ſolations, none being more deſtructive and pernicious
+<pb n="19" facs="tcp:124329:14"/>enemies than enraged friends, countreymen, kindred.</p>
+            <p>For when love is turned into hatred, that hatred is moſt deadly: <hi>Corruptio optimi peſsima:</hi> as it is with any other thing, the better it was in its native, <hi>Goodneſſe,</hi> the worſe it is in its <hi>Corruption.</hi>
+            </p>
+            <p>I exemplifie this in thoſe bloudy Wars between the two houſes of <hi>York</hi> and <hi>Lancaster,</hi> in which let that on<g ref="char:EOLhyphen"/>ly reigne of <hi>Edward</hi> the fourth be made our Map, to deſcry the deſolations of civill War: in which were fought nine civill Battailes in <hi>England;</hi> inſomuch that in his time moſt of the flower of the Nobility and Gentry of the Kingdom, either died by the <hi>Sword</hi> va<g ref="char:EOLhyphen"/>liantly fighting in the field, or by the <hi>Axe of the Exe<g ref="char:EOLhyphen"/>cutioner,</hi> being taken priſoners for partaking.</p>
+            <p>The Civill wars between <hi>Marius</hi> and <hi>Sylla</hi> bad al<g ref="char:EOLhyphen"/>moſt unpeopled <hi>Rome,</hi> which made <hi>Quintus Catulus,</hi> a noble <hi>Roman,</hi> cry out one day in the <hi>Senate,</hi> with whom ſhall we live at laſt, <hi>Si in bello armatos, in Pace inermes occidimus,</hi> If in War we ſlay the armed, and in Peace the unarmed?</p>
+            <p>
+               <hi>In that Civill War</hi> mentioned, <hi>Judg.</hi> 21.2. Between the tribe of <hi>Judah</hi> and <hi>Benjamin,</hi> when the fury was o<g ref="char:EOLhyphen"/>ver, the conquering Tribe wept ſore for the deſtru<g ref="char:EOLhyphen"/>ction of <hi>Benjamin,</hi> whom they had ſlaine down to the ſmall number of 600 men that fled and hid themſelves in the rock of <hi>Rimmon.</hi>
+            </p>
+            <p>
+               <hi>In War,</hi> what loſſe is there of <hi>Limbs, of Eyes, of Armes, of Legs?</hi> What living ſorrows of ſuch as comming off maimed from the Battell do live in miſery and want for ever after? So that for all their <hi>Markes of Honour,</hi> the dead are better than they.</p>
+            <pb n="20" facs="tcp:124329:15"/>
+            <p>
+               <hi>And what dying groans, and moanes</hi> of men ready to gaſpe out their ſoules, to whom all pity and compaſ<g ref="char:EOLhyphen"/>ſion is prevented by <hi>Fifes, and Drums, and Trumpets,</hi> which are uſed in War, not only to encourage the Souldier to make havocke of man-kind, but, as in the valley of <hi>Hinnom,</hi> that the parents might not heare the ſcreeking of their Infants ſacrificed to <hi>Moloch,</hi> leſt their eare ſhould affect their heart: So are theſe loud Inſtruments uſed in War, that men may not heare the woefull complainings of their wounded friends, leſt pity ſhould enfeeble that <hi>Helliſh fury,</hi> they call courage and valour, in killing and deſtroying.</p>
+            <p>
+               <hi>In War all priviledges</hi> and immunities ceaſe, for here is no Law, but power and luſt, no Iuſtice, but ſpoyle and rapine.</p>
+            <p>
+               <hi>Men had led, ſaith Seneca,</hi> a moſt quiet life, if they had taken away theſe two words, <hi>Meum &amp; tuum,</hi> out of the nature of things; which made <hi>Licurgus</hi> ſet up a community in <hi>Lacedaemon,</hi> that his Citizens might have no contention for any private intereſt: But in Warre theſe pronounes, <hi>meum &amp; tuum, mine and thine,</hi> are not known, but what the ſtronger can lay hold on, and car<g ref="char:EOLhyphen"/>ry away by might, that is his own; and it is here ac<g ref="char:EOLhyphen"/>cording to that proverbe, <hi>That that is thine, is mine, and that that is mine, is mine own.</hi>
+            </p>
+            <p>
+               <hi>Here is no Charter nor Freedom</hi> of the City, here is no diſtinction betweene the Magiſtrate and people, but <hi>Cade, and Straw, and Tyler</hi> will beard the King, and give all Iudgements out of their lawleſſe lips, and the moſt noble here are made a ſcorne unto the baſeſt villaine.</p>
+            <p>Here is no aſſurance of one penny to morrow, to
+<pb n="21" facs="tcp:124329:15"/>him that this day is full and hath abundance. <hi>Jocus &amp; l<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us ſunt in militiâ, domos diripere, fana ſpoliare, virgines rap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, ſolida: urbes atque oppida incendere,</hi> Eraſ. in Adag.</p>
+            <p>
+               <hi>In War the goodlieſt Cities</hi> are ſet on a <hi>Flaming fire,</hi> &amp; laid in their duſt and rubbiſh.</p>
+            <p>
+               <hi>Here the chaſte Wife</hi> and Virgin are raviſhed before the face of the miſerable Husband and Parent, unable to relieve or reſcue them from villany.</p>
+            <p>
+               <hi>Here the little Infants</hi> are toſſed on the pikes, or taken by the heeles, and their braines daſhed out againſt the ſtones, or ſlaine in the armes, or on the knees, or in the boſome of their deere mother that bare them, and ripped ſometimes out of their mothers belly.</p>
+            <p>
+               <hi>In war there are</hi> a thouſand indignities and barbarous cruelties, and nothing to be heard or ſeen, but weeping, &amp; wayling, &amp; wringing of hands, nothing but mourning, and lamentation and woe, <hi>heu miſeri qui bella gerunt.</hi>
+            </p>
+            <p>
+               <hi>Indeed War is</hi> the laſt and ſoareſt of all Gods Iudge<g ref="char:EOLhyphen"/>ments, ſent out among men for their ſins; the famine and peſtilence not to be compared with it.</p>
+            <p>For men that be wolves and inſatiable in their cru<g ref="char:EOLhyphen"/>elties, yea devils one to another, be the executioners of Gods ſore vengeance brought on a people for their tranſgreſſions, when famine, peſtilence, and other more gentle corrections have done no good upon them to reclaime them from their ſins; againſt which, if God being <hi>angry, but a little,</hi> ſhall put this rod into the hands of men, <hi>they will helpe forward and increaſe the fury,</hi> Zecha. 1.15.</p>
+            <p>
+               <hi>Nay more than this,</hi> in <hi>War</hi> the fury reacheth out only
+<pb n="22" facs="tcp:124329:16"/>to living men, but to the reaſonleſſe creatures that are appointed for their comfort.</p>
+            <p>
+               <hi>And more than that,</hi> to the very ſenſeleſſe creatures, the trees of fruit, the Gardens and Orchards for delight, and fields of corne for the neceſſary maintenance of humane life, are cut down to the ground, or burned up and conſumed, to the detriment of the poſterity that are yet unborne:
+<q>Et nulla ſalus Bello.</q>
+            </p>
+            <p>
+               <hi>When Craeſus</hi> was overcome and taken priſoner by <hi>Cyrus,</hi> he preferred Peace before War, by this Argu<g ref="char:EOLhyphen"/>ment; that in time of Peace the ſons did bury their fathers dying before them, in the ordinary courſe of Nature; whereas in War the fathers bury their chil<g ref="char:EOLhyphen"/>dren ſlain violently by the ſword.</p>
+            <p>
+               <hi>But in War</hi> ſometimes both fathers and children are expoſed naked above ground to the ſhame of their nature, and contempt of their perſon, and to the vio<g ref="char:EOLhyphen"/>lence of wild beaſts, wanting all decency of buriall, <hi>Pſa.</hi> 79.2. <hi>The dead bodies of thy Saints have they given to be meat to the fowles of the heavens, and the fleſh of thy ſervants to the beaſts of the earth; their blond have they ſhed like water round about Jeruſalem, and there was none to bury them.</hi>
+            </p>
+            <p>And more than that, they are ſometime digged and dragged out of their graves, in which they were formerly layed at reſt, and abuſed with contempt and villany, <hi>Amos</hi> 2.1. This was one great ſin, for which God would not <hi>turne away the puniſhment of the King of Moab, becauſe he burnt the bones of the King of Edom into lime,</hi> that is, digged them up out of the grave, when
+<pb n="23" facs="tcp:124329:16"/>he had laine ſo long, that his fleſh was conſumed, and burned his bones to aſhes.</p>
+            <p>
+               <hi>The Duke of</hi> Bedford <hi>the Regent of</hi> France, that was victorious in <hi>Normandy</hi> in War, and governed it with renowned Iuſtice in Peace, dying in that Province, was buried under a ſtately Monument in <hi>Rean,</hi> but when by change and chance of War, all <hi>Normandy</hi> be<g ref="char:EOLhyphen"/>came <hi>French,</hi> and caſt off the <hi>Engliſh</hi> yoke, the people would have pulled down his Monument, and have ta<g ref="char:EOLhyphen"/>ken up his carcaſe, and throwne it into the open field, but that the humanity of the <hi>French</hi> King would not permit that barbarous out-rage to his honourable enemy.</p>
+            <p>
+               <hi>This miſchievous indignity</hi> to humane nature was the reaſon why the <hi>Romans</hi> in their funerals burnt their dead to aſhes, and put their aſhes in an Vrne, or earthen Pitcher, that if their enemies ſhould at any time ſacke and take their City, the bodies of their deceaſed Citi<g ref="char:EOLhyphen"/>zens might not be digged out of their graves, and thus inhumanely abuſed.</p>
+            <p>If I could reckon up all the miſchiefes that ever were of ſhall be among men in the world, they might all ſuf<g ref="char:EOLhyphen"/>ficiently be expreſſed in this one word, <hi>War, Si bellum dixeris, omnia dixeris.</hi> And therefore the contrary bleſ<g ref="char:EOLhyphen"/>ſing, <hi>Pence,</hi> cannot but be acknowledged a rare and ſpeciall favour, and a bleſſing of God to his people, <hi>who will bleſſe his people with Peace.</hi>
+            </p>
+            <p>From all that hath been ſaid by way of <hi>Explication,</hi> I draw theſe uſefull directions by way of <hi>Applica<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Firſt, when we do ſee this bleſſing of Peace with<g ref="char:EOLhyphen"/>held,
+<pb n="24" facs="tcp:124329:17"/>or ſhaken and threatned, we ſhould be perſwaded to renew our <hi>Covenants of Peace</hi> with God, and enter into a conſideration of our ſins, by which we have pro<g ref="char:EOLhyphen"/>voked him to anger, that we may be humbled for them and reforme them: <hi>For be we well aſſured,</hi> when wee behold the Lord gathering his forces together, and pre<g ref="char:EOLhyphen"/>paring to battaile againſt us, we have broken our con<g ref="char:EOLhyphen"/>ventions, and the Articles and Covenants of Peace that we have made with him; <hi>For becauſe they have cast away the Law of the Lord, and deſpiſed the holy one of</hi> Iſrael, <hi>therefore is his anger kindled, and his hand ſtretched out againſt his people,</hi> Eſay 5.25. and thus he threatneth them; <hi>If ye will walke contrary to me, I will walke contra<g ref="char:EOLhyphen"/>ry to you, &amp; I will bring a ſword that ſhall avenge the quar<g ref="char:EOLhyphen"/>rell of my Covenant,</hi> Lev. 26.24, 25. And therefore let us enter into conſideration, how unworthy of, and un<g ref="char:EOLhyphen"/>anſwerable to the Covenant of the Goſpell our Nati<g ref="char:EOLhyphen"/>on hath behaved it ſelfe, for whereas we ſhould have <hi>adorned the Doctrine of God our Saviour,</hi> by holineſſe and righteouſneſſe, as it doth teach us, <hi>Tit.</hi> 2.11. <hi>On the con<g ref="char:EOLhyphen"/>trary,</hi> we have lived in all impiety and unrighteouſneſſe, being full of <hi>envy, hatred, malice, fraud, deceit, hypocriſie, by lying, and killing, and ſtealing, and whoring, and ſwea<g ref="char:EOLhyphen"/>ring, we breake forth; for which God hath a controverſie with the Land,</hi> Hoſ. 4.1. And ſeemes now to ſay, awake thou ſword of the Lord, and take vengeance on the breaches of my Covenant of Peace. <hi>Now therefore</hi> upon the alarme given to us by God, we ſhould be carefull and ſtudious to renew our Covenants of Peace with him, as one adviſed, <hi>Job</hi> 23.21. <hi>Acquaint thy ſelfe with him, and be at peace,</hi> by Repentance and Faith in
+<pb n="25" facs="tcp:124329:17"/>Ieſus Chriſt the Mediator of Peace, entering anew in<g ref="char:EOLhyphen"/>to Termes and Articles of amity with God; and as the men of <hi>Tyre</hi> and <hi>Sydon,</hi> when <hi>Herod</hi> was fallen out with them, procured <hi>Blaſtus</hi> the Kings Chamberlaine to bring them into favour, <hi>Acts</hi> 12.20. So ſhould we, by renewing our Faith in Chriſt that ſits at Gods right hand, advance our pacification with God.</p>
+            <p>Secondly, now wee ſee the confuſions of War a brewing, and the ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me begin to ariſe, becauſe we do not know but the date of the Peace of the Nation may be out, and the time come to us to drink the heavy and bitter <hi>Cup of trembling,</hi> that hath been put into the hand of all the Nations round about us, &amp; have ſmal cauſe to thinke we ſhall go free, our care ſhould be to provide againſt the miſchiefe of War, which can reach to the great dammage of the ſoule that hath not made its Peace with God in Chriſt; <hi>Therefore</hi> wee ſhould be perſwaded very ſtudiouſly to provide for the ſafety and ſecurity of our ſoules, laying them up by Faith in Chriſt in the hands of God, as in the hand of a faith<g ref="char:EOLhyphen"/>full Creator, and a reconciled God in him, that if we fall in the common calamity and deſtructions of the ſword, and be deprived of that outward Peace which is in the World, yet keeping Faith and a good Con<g ref="char:EOLhyphen"/>ſcience, the ſword ſhall but let our ſoules out of the body, as out of a priſon, to injoy eternall Peace and reſt in Heaven, the conſummation of the bleſſed quiet begun in Peace of Conſcience in this Life; <hi>&amp; we ſhall by death be delivered from all the evils that ſhall come upon the World,</hi> Eſay 57.2. <hi>For the righteous is but taken from e<g ref="char:EOLhyphen"/>vils here below, and Peace doth come to them in death, and
+<pb n="26" facs="tcp:124329:18"/>the grave is but a bed of reſt to them;</hi> and that fulfilled that our Saviour ſpoke, <hi>Ioh.</hi> 16.33. <hi>In the world ye ſhall have trouble, but in me ye ſhall have Peace,</hi> the way wher<g ref="char:EOLhyphen"/>unto is Faith and a good Conſcience, Vprightneſſe and Integrity of heart, for the <hi>end of the upright and perfect man is Peace,</hi> Pſ. 37.37. therefore ſaith the Pſalmiſt, <hi>Keep innocency, and do the thing that is right, for that will give a man peace at the last;</hi> and though the Heavens fall, the ruines thereof ſhall not make him affraid, his heart being ſupported by a better hope and expectation than the beſt things in the World can afford unto him, ha<g ref="char:EOLhyphen"/>ving laid his ſoule up in the ſafeſt hand.</p>
+            <p>Thirdly, ſeeing War is ſo full of miſchiefe, and ſuch a deſtroyer of all the bleſſings of Peace, make it your dayly requeſt to God, that he would be pleaſed to de<g ref="char:EOLhyphen"/>liver us from it, to keep it from entring in among us, and to ſcatter that cloud that hangs over our heads and threatens us. <hi>I heard a Preacher once in the pulpit exhort men to pray against the compounding our diſtractions that be broken forth upon us, as a thing that would undo us,</hi> And he ſaid, <hi>Though War were a ſad way, yet it was the ſafeſt way. Dulce bellum inexpertis.</hi> Surely <hi>David</hi> a valiant warrior, and learned in the miſeries of it, by long tryall and experience, when God (purpoſing to cha<g ref="char:EOLhyphen"/>ſten his pride in the multitude of his people by cutting ſhort the numbers of them) put him by <hi>Gad</hi> to the choyce of peſtilence, famine or war; <hi>David</hi> that knew full well the calamities that accompany this judgement, utterly declined it, leaving himſelfe to God to ſend which of the other two it was his pleaſure, 2 <hi>Sam.</hi> 24.14. <hi>Let me fall into the bands of God, ſaith he, for his
+<pb n="27" facs="tcp:124329:18"/>mercy is great, and not into the hands of man</hi> (for wee may thus ſupply it) with <hi>man in warre there is no mercy:</hi> from whoſe example let us learne to pray which way ſoever he pleaſeth to chaſten us for our ſinnes, yet to preſerve us from this dreadfull miſchiefe and calamity of warre, if he have any pleaſure in us.</p>
+            <p>Fourthly, we ſhould bee excited to great thankful<g ref="char:EOLhyphen"/>neſſe for our bleſſed peace that hath been ſo long con<g ref="char:EOLhyphen"/>tinued among us, and for all thoſe bleſſings that have accompanied it unto our comfort, God having made us all our dayes to dwell in the multitude of peace, un<g ref="char:EOLhyphen"/>der <hi>nourcing Fathers and Mothers,</hi> Princes that have de<g ref="char:EOLhyphen"/>lighted in, and under God procured and maintained us in peace, whereby we have beene increaſed into all affluence and abundance of people, riches, and all kind of things needfull and convenient for this naturall life, in learning and knowledge, and all helps to further the health and happineſſe of our ſoules, if now we doe not ruine <hi>(propriâ mole)</hi> by our owne abundance; <hi>And as fat cattell</hi> that came leane and ſcragged into a rich paſture, being growne wanton with their fulneſſe of feede, turne the heeles on the paſture that hath fed them, leaping over the hedge, through deſire of change, and to run at random in the vaſt Common, where their paſture is too ſhort to fill their bellies, and the briars and thornes do plentifully tear and rend their ſmooth and ſleeke backs, and ſend them home with deſire to the place from which they brake in wanton<g ref="char:EOLhyphen"/>neſſe, where they ſtand as it were bemoaning their fol<g ref="char:EOLhyphen"/>ly, but unable to get into the place which they wan<g ref="char:EOLhyphen"/>tonly forſooke, till helped in by their Maſter.</p>
+            <pb n="28" facs="tcp:124329:19"/>
+            <p>Fiftly, it ſhould beget in every one of us an averſe diſpoſition to warre, and an <hi>inward diſlike and loathing of it,</hi> and ſhould frame in us delights and deſires of this great bleſſing of peace, <hi>with all anſwearable endea<g ref="char:EOLhyphen"/>vours</hi> as much as in us lies to advance and preſerve it among us: <hi>to be in</hi> our ſelves of a <hi>peaceable diſpoſition,</hi> to love and live in peace, it is a fruite of true Religi<g ref="char:EOLhyphen"/>on and an argument thereof, <hi>James</hi> 3.17. <hi>The wiſe<g ref="char:EOLhyphen"/>dome that is from above is peaceable, full of mercy, gentle and eaſie to be entreated,</hi> it is not full of malice, and ha<g ref="char:EOLhyphen"/>tred and fury, like them that breath nothing but ſwords and piſtolls, and ſpeake nothing but halters and axes, and perſwade nothing but warre and fighting up to the knees in bloud, uttering nothing but threatnings, and ruine, and confuſion to all that differ from them in the leaſt ſyllable of opinion; ſurely <hi>if any man ſeeme to bee religious and refraineth not his tongue his Religion,</hi> that is, his profeſſion of religion is in vain, <hi>Jam:</hi> 1.26. and ther<g ref="char:EOLhyphen"/>fore let your ſpeeches breath peace out of a peaceable heart, deſire, labour for and ſtudy peace, and as a thing helpfull thereunto, <hi>follow your owne plough,</hi> and med<g ref="char:EOLhyphen"/>dle not in things that belong not to your calling: <hi>stu<g ref="char:EOLhyphen"/>die to be quiet,</hi> ſaith the Apoſtle, and as a thing helpfull thereunto he addes, <hi>meddle with your owne buſineſſe.</hi> 1. Theſ. 4.11.</p>
+            <p>There bee men that have an Oare in every mans boate, matters of State, and the Miniſtery, and Go<g ref="char:EOLhyphen"/>vernment, and Reformation is his buſineſſe that never yet reformed his heart or life; <hi>they will</hi> not allow a <hi>Biſhop</hi> in his owne <hi>Dioceſſe</hi> and yet will be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Biſhops in every mans <hi>Dioceſſe,</hi> from whence
+<pb n="29" facs="tcp:124329:19"/>growes ſtrife, and contentions, and great and hatefull thoughts of heart that prepare men unto civill warre, and withall if that evill come upon us, to encreaſe the miſchiefes of the judgement, and to make it the more bitter and deſtructive.</p>
+            <p>Sixtly and laſtly, pray for the <hi>continuance of our peace</hi> ſo long continued to the happineſſe of our Nation, but now grievouſly ſhaken and threatned, <hi>pray</hi> that it may be deere and precious in Gods eyes, and that which he denounced againſt his people never befall us, <hi>Jer.</hi> 16.5. <hi>I have taken away my peace from this people.</hi> It hath been a great bleſſing hitherto, that in our time there hath been <hi>no going out, nor comming in, nor complaining in our streets,</hi> through forreign or domeſticall warre, <hi>happy are the people that be in ſuch a caſe,</hi> Pſal. 144.15.</p>
+            <p>It was the happineſſe of <hi>Solomons</hi> time, 1 <hi>Chro.</hi> 22.9. That he was a <hi>man of peace,</hi> and God did give <hi>him rest from all his enemies round about,</hi> and therefore hee called his name <hi>Solomon,</hi> that ſignifies peaceable, for I will <hi>give peace and reſt in his dayes,</hi> ſaith God to <hi>Da<g ref="char:EOLhyphen"/>vid. It was</hi> a great bleſſing upon <hi>Jehoſhaphat</hi> and his Kingdome, <hi>that the feare of God fell upon all the King<g ref="char:EOLhyphen"/>domes that were round about Iudah, ſo that they made no warre againſt</hi> Iehoſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phat. 2. Chro. 17.10. And our duty is to be thankful that it hath beene ſo with us of a long time, and to pray that this our happy peace may be continued, and ſeeing wee have no <hi>comming in by invaſion,</hi> that there may be no <hi>crying in our ſtreets by the miſeries of civill warre</hi> in the bowells of our Nati<g ref="char:EOLhyphen"/>on through the diſtempers of any ill affected perſons that doe deſire or delight in ſuch a warre.</p>
+            <pb n="30" facs="tcp:124329:20"/>
+            <p>For did wee know ſo much of civill warre as a few moneths have diſcovered to them in <hi>Ireland,</hi> wee would thinke our ſelves an happy people, and a little of their vineger would cure the itch of their fingers that would faine be fighting.</p>
+            <p>There be ſome unquiet ſpirits alwayes among men, of whom it may be ſpoken that <hi>Agamemnon</hi> ſaid of <hi>Achilles,</hi>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q> Strifes, and warres, and fightings are alwayes pleaſant to thee.</p>
+            <p>Angry natures, <hi>iracundia lites concitat, concordiam diſsipat,</hi> anger ſtirres up ſtrife, and ſcatters peace.</p>
+            <p>There are a people it ſeemes weary of peace, and deſirous of warre in the bowells of the Nation, not conſidering that ſuch a warre is with their owne bre<g ref="char:EOLhyphen"/>thren and Countrie men in the fleſh, and will be moſt fatall to the whole Nation, and begin when it will begin, <hi>it will be bitterneſſe in the latter end,</hi> as <hi>Abner</hi> ſaid to <hi>Ioab:</hi> and come it when it will come, it will bring re<g ref="char:EOLhyphen"/>pentance enough with it when it is too late, both to the <hi>vanquiſhed,</hi> and to the <hi>victor.</hi>
+            </p>
+            <p>
+               <hi>Benhadad</hi> deſpiſing termes of peace, and wilfully and proudly making warre upon the King of <hi>Iſrael,</hi> was taught repentance by an utter diſcomfiture of his nu<g ref="char:EOLhyphen"/>merous forces wherein hee truſted and whereof ſo much hee boaſted, 1 <hi>Kings</hi> 20.20. and was forced when he was halfe drunken to flye for his life, and af<g ref="char:EOLhyphen"/>ter baſely to ſend his Courtiers with ropes about their necks, to ſay to the King of <hi>Iſrael</hi> whom hee ſo much deſpiſed and provoked to battell, <hi>Thy brother</hi> Benha<g ref="char:EOLhyphen"/>dad
+<pb n="31" facs="tcp:124329:20"/>
+               <hi>ſaith, I pray thee let mee live;</hi> Indeed <hi>the proudeſt and moſt quarrelling Spirits in proſperity are uſually the baſeſt, and moſt ignoble in adverſity.</hi>
+            </p>
+            <p>The <hi>Trojans</hi> after the many fearfull miſeries and dreadfull calamities of ten yeares warres of the <hi>Greci<g ref="char:EOLhyphen"/>ans</hi> upon them, provoked by the rape of <hi>Helena</hi> whom <hi>Paris</hi> had ſtolne out of <hi>Greece</hi> from <hi>Menelaus</hi> her huſband, began to thinke of ſending <hi>Helena</hi> home, which had they done at firſt as they were bound in ju<g ref="char:EOLhyphen"/>ſtice, and not perverſly gone about to maintaine that wicked act with warre, they had eſcaped the miſery they ſuffered, and the ruine of their City: whoſe late repentance came into a proverb, <hi>Serò ſapiunt Phryges,</hi> the <hi>Trojans</hi> are wiſe when it is too late, which will be fit to all that ſtubbornly betake themſelves to warre.</p>
+            <p>
+               <hi>But of all warres the civill warre</hi> is moſt unkindly and diſconſolate, though too too many wretched ſpirits wiſh it were a foot: and whereas all good men would ſacrifice themſelves for the peace and ſafety of their Country, theſe would faine <hi>bee fiſhing in troubled wa<g ref="char:EOLhyphen"/>ters, and therefore trouble the waters that they might bee fiſhing.</hi>
+            </p>
+            <p>
+               <hi>Otho</hi> the <hi>Emperour</hi> being but three and thirty years of age, ſeeing he muſt either lay downe his Empire, or maintaine it with the ſlaughter of his Citizens, and be<g ref="char:EOLhyphen"/>ing exhorted by his ſouldiers not to deſpaire of the ſucceſſe of that warre, made them this anſwer, <hi>ſibi ſu<g ref="char:EOLhyphen"/>am vitam tanti non eſſe, ut hâc de cauſâ bellum civile naſ<g ref="char:EOLhyphen"/>ceretur,</hi> my life is not ſo deare to me, that for it a civill warre ſhould be raiſed in my Countrey.</p>
+            <p>But many are of ſuch peſtilent and deſtructive ſpi<g ref="char:EOLhyphen"/>rits,
+<pb n="32" facs="tcp:124329:21"/>ſo malignant and ill affected to the publique, and ſo full of love unto their own particular, that they wiſh a civill warre, ſome for ſpoyle and booty, and ſome to injoy their licencious liberty, and ſome to advance onely their peeviſh humour, and to maintaine or ſet up things that cannot in all eternity recompence the ſlaughter of one battell.</p>
+            <p>
+               <hi>Macedonius</hi> the Heremite hearing <hi>Theedoſius</hi> the <hi>Em<g ref="char:EOLhyphen"/>perour</hi> had determinined to make warre upon the <hi>An<g ref="char:EOLhyphen"/>tiochians,</hi>
+               <note place="margin">Theod. l. 5.20.</note> and to deſtroy them by the ſword, becauſe they in a diſcontented tumult occaſioned by the impo<g ref="char:EOLhyphen"/>ſition of an <hi>extraordinary tribute,</hi> had broken downe a brazen image of <hi>Placilla</hi> the Queene, reproved the <hi>Emperour</hi> by a meſſage, and charged him to deſiſt from his intended enterpriſe, and to conſider that hee was but a man, and depended upon the will of God, and not to deſtroy the Image of God by warre for a bra<g ref="char:EOLhyphen"/>zen Image, ſeeing many other brazen Images might be made, <hi>at ne pilum quidem Jmperator interfecto homi<g ref="char:EOLhyphen"/>ne restituere poſſet,</hi> but a haire of a man ſlaine could not be repaired by the Emperour, and the <hi>Emperour</hi> obeyed the Eremite and forgave the <hi>Antiochians.</hi>
+            </p>
+            <p>The cauſe of warre had neede be very great and ur<g ref="char:EOLhyphen"/>gent, and the benefits of it apparent, for the deſtructi<g ref="char:EOLhyphen"/>ons of it are of things ineſtimable: and therefore peace hath alwayes beene and is a bleſſed thing, and an eſtee<g ref="char:EOLhyphen"/>med Iewell, and warre moſt wretched and abhorred of every man, unleſſe of ſuch as be crazed in their breins or fortunes, that haveeaten hemlock and are fitter for the darke and cloſe lodgings of <hi>Bedlem,</hi> than to ſee the light and open aire, and live in humane ſociety
+<pb n="33" facs="tcp:124329:21"/>to which they are infeſtive that deſire or delight in warre.</p>
+            <p>When a <hi>Pyrate</hi> was brought before <hi>Alexander,</hi> and accuſed for robbing on the Sea, <hi>Alexander</hi> asked him why hee infeſted men upon the Sea? to whom the <hi>Pyrate</hi> boldly gave this anſwer, Why doſt thou infeſt them on the Land? but becauſe I doe that I doe <hi>par<g ref="char:EOLhyphen"/>vulo navigio</hi> in a ſmall bottome, therefore I am called a theife, and becauſe thou doeſt that thou doeſt <hi>magno exercitu</hi> with a great Army, therefore thou art cal<g ref="char:EOLhyphen"/>led an <hi>Emperour.</hi> Certainly they were both of them miſcheifes to mankind by the bad effects of violence, and of the ſword, which are the loſſe of goods, Eſtates, Liberties, Landes, and all other comforta<g ref="char:EOLhyphen"/>ble things that waite on peace.</p>
+            <p>For in peace there is freedome from all thoſe ſad and black calamities, which the diſmall clowd of warre rains down among the ſons of men to their deſtruction. <hi>They are</hi> therefore like <hi>Alexander</hi> and his <hi>Pyrate,</hi> the very peſts among men that doe delight in warre, and doe deſire to breake off and chaſe away the great bleſ<g ref="char:EOLhyphen"/>ſing of peace.</p>
+            <p>For in peace men enjoy themſelves and the fruit of their labours, trade in the City, husbandry in the Countrey, pleaſure in their recreations, traffique with ſtrangers, the Goſpell preached, Gods Ordinances duly adminiſtred, his Sabboths comfortably obſerved, communion with their friends and kindred, education of their children, and plenty of all bleſſings that bee deere unto the living, and decent and comely buriall of the dead, all which they are deprived of by warre,
+<pb n="34" facs="tcp:124329:22"/>as they be bleſſed with them by peace.</p>
+            <p>Peace, why it is the deſire of Angels for us, <hi>Luk.</hi> 2.10. <hi>Glory be to God on high and on earth peace,</hi> was the ſong of the heavenly quire that celebrated the birth of Chriſt the King of peace.</p>
+            <p>Peace, why it is a bleſſing promiſed to the Church in all the ages of the world upon their obedience to God, <hi>Levit.</hi> 26.6. <hi>If ye walke in my Statutes and keepe my Com<g ref="char:EOLhyphen"/>mandements, I will give peace in the land, and ye ſhall lye down, and none ſhall make you afraid, neither ſhall the ſword goe thorow your land.</hi>
+            </p>
+            <p>Peace, why it is the requeſt of the Prophet, and that he ſtirres us up to pray for, <hi>Pſal</hi> 122.6. <hi>Pray for the peace of Ieruſalem, they ſhall proſper that love thee, peace bee within thy walls and plenty within thy Palaces, for my bre<g ref="char:EOLhyphen"/>thren and companions ſake I will now ſay, peace bee within thee, becauſe of the houſe of the Lord our God, I will wiſh thee good.</hi> Firſt, here is <hi>proſperity</hi> to them <hi>that love the peace</hi> of <hi>Jeruſalem;</hi> Secondly, here is <hi>peace firſt,</hi> and then <hi>plenty after;</hi> Thirdly, here is peace prayed for for <hi>humanities ſake:</hi> and fourthly, for <hi>Religion and the Churches ſake.</hi>
+            </p>
+            <p>And the taking away of peace is reckoned in Scri<g ref="char:EOLhyphen"/>pture a grievous judgement, and ſo threatned, <hi>Ier.</hi> 16.5. <hi>Thus ſaith the Lord</hi> (to the Prophet) <hi>enter not into the houſe of mourning, neither goe to lament or bemoan them, for I have taken away my peace from this people, ſaith the Lord, even loving kindneſſe and mercy:</hi> for if peace bee gone, farewell all other bleſſings of the Lord, and therefore threatning the captivity, he thus expreſſeth it, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> 30.5. <hi>wee have heard a voyce of trembling, of feare
+<pb n="35" facs="tcp:124329:22"/>and not of peace,</hi> for the voyce of peace is ſweet, as the voyce of warre is dreadfull.</p>
+            <p>And this judgement God ſeemes now to threaten us withall, our peace ſeemes to be ſhaken, crazed and al<g ref="char:EOLhyphen"/>moſt broken in pieces, and warre to bee entered into our gates, we heare the beating of the Drumme, the clangor of the Trumpet, the report of the Muſquet; and the horſe prepared for the battell trots in our ſtreets, and his neighings are entred into our eares, and <hi>the deſtructions</hi> will be of the ſame Country-men, and of many of the ſame profeſſion for the ſubſtance of Re<g ref="char:EOLhyphen"/>ligion, and of the ſubjects of the ſame King.</p>
+            <p>Oh, ye therefore that be the friends of peace, the ſervants of the God of peace, the ſaved of the Prince of peace, and joyned together in the ſame covenant of peace, who have one God the Father of all, one Lord the Redeemer of all, one faith, one baptiſme and one hope of Heaven, pray for peace: <hi>pray that ſome</hi> Mediator may ſtand up in the gap to divert this threat<g ref="char:EOLhyphen"/>ned ſtorme of deſtruction: <hi>pray that that God,</hi> who when there was ſuch a diſtance made betwixt God and man by ſinne, that no creature in heaven or earth could re<g ref="char:EOLhyphen"/>concile them, conceiving in the bowells of his mercy thoughts of peace toward man, did ſend the Sonne of his love and delight in the fleſh, to make peace, to pro<g ref="char:EOLhyphen"/>cure peace, to preach peace and purchace peace for us with our God, <hi>would ſtirre</hi> up in the hearts of Prince and Parliament the ſtudious deſire and endeavour of pacification, that theſe water-breaches that be broken in upon us, may not be given way unto, leſt they prove an inundation and deluge of deſtruction.</p>
+            <pb n="36" facs="tcp:124329:23"/>
+            <p>It would be a work of glory for every man in place fit to that purpoſe to labour this way, and bleſſed ſhould he be, bleſſed are the Peace-makers, for they ſhall be called the children of God, <hi>Mat.</hi> 5.9.</p>
+            <p>
+               <hi>Titus Flaminius</hi> when he had compoſed the diviſi<g ref="char:EOLhyphen"/>ons and quieted the ſeditions of <hi>Greece,</hi>
+               <note place="margin">Plut. Flam.</note> and ſetled the divided and diſtracted eſtate of the Countrey, tri<g ref="char:EOLhyphen"/>umphed for it with as great joy as if he had conquered the <hi>Macedonians</hi> and all <hi>Greece.</hi>
+            </p>
+            <p>So glorious would it bee to be a worker in this worke of pacification for any man that hath a calling giving him a capacity thereunto, that he ſhould bee regiſtred in the Chronicles of Fame to his immortall glory, wherein the willfull raiſers up of warre ſhall beare eternally the blacke marke of Infamy.</p>
+            <p>And for us all of an inferiour Orbe &amp; Sphaere, lets be excited to pray labour, and ſtudy in our way for peace, not blowing the Trumpet nor ſtirring up the coales and fire of warre, by factious oppoſitions, by ſiding names &amp; Titles that tend onely to ſedition, and to ſoment and nouriſh hatred and malice, there by to prepare us to the greater cruelty one againſt another, if that judgement ſhould be begun amongſt us; let us avoyde lying and ſlandering, eſpecially blaſpheming and ſtandering the footſteps of the Lords anointed; let not the voyce of warre be named by you, unleſſe in deteſtation, <hi>ſi pacem diligis belli mentionem ne feceris.</hi>
+            </p>
+            <p>He was no foole but a wiſe Stateſman that ſaid,
+<note place="margin">S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. de Bene.</note> 
+               <hi>ini<g ref="char:EOLhyphen"/>quiſsimam pacem juſtiſsimo bello antefero.</hi> I preferre the moſt unjuſt peace before the juſteſt warre, <hi>&amp; omnis pax bello civils praestantior,</hi>
+               <note place="margin">Cicero.</note> any peace is better than a civill
+<pb n="37" facs="tcp:124329:23"/>warre. Moſt true it is that peace is better with many diſadvantages, than War with all the conditions that be deſirable to it.</p>
+            <p>Certainely therefore they be men of mad and diſ<g ref="char:EOLhyphen"/>joynted braines, and deſperate ſpirits, that are all for Warre, eſpecially for a Civill Warie, in the bowels of their owne Countrey and Nation,
+<note place="margin">Cicer. in Phil.</note> Of ſuch a man ſaith <hi>Cicero, Nec privatos Focos, nec publicas Leges, nec Libertatis Jura chara habere poteſt,</hi> &amp;c. Hee nei<g ref="char:EOLhyphen"/>ther eſteemes mens private intereſt, nor the publique Laws, nor the rights of Liberty deere unto him, whom diſcord, whom the ſlaughter of his Citi<g ref="char:EOLhyphen"/>zens, whom Civill Warre delighteth; and I think him fit to bee caſt out of the number of men, and to bee exterminated the confines of humane Nature; and therefore whether it be <hi>Sylla</hi> or <hi>Marius,</hi> or who<g ref="char:EOLhyphen"/>ſoever elſe that wiſheth for a Civill War, I judge him to be borne a deteſtable Citizen to the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Neither is any thing more horrible than ſuch a Citizen, than ſuch a man, if at leaſt he be to be eſteemed a Citizen, or a man that deſireth a Civill Warre.</p>
+            <p>The <hi>Turkes</hi> in deteſtation of the bloudy contentious humor of <hi>Selimus</hi> their <hi>Emperor,</hi> who was never quiet, never well, unleſſe he were fighting, though it were with his own father, made this a piece of his <hi>Epitaph,</hi>
+               <q>Licet oſſa jacent, animus tamen bella quaerit;</q> Though his bones be at reſt, his ghoſt is hunting after war.</p>
+            <pb n="38" facs="tcp:124329:24"/>
+            <p>Oh, let us that be Chriſtians then, the ſons of peace, and called unto peace, in and by the Goſpell of Peace, abhorre thoſe bloudy ſlaughters of mankind that do accompany War.</p>
+            <p>Thinke often on the miſeries that do waite on War, and go along inſeparably with it.</p>
+            <p>Set woefull <hi>Germany</hi> before your eyes, ſo waſted and conſumed by war, that in the <hi>Palatinate,</hi> the good<g ref="char:EOLhyphen"/>lyeſt and moſt fruitfull Garden of that Countrey, men have beene found dead with graſſe in their mouths, which they have gathered and gnawed up like beaſts, to keep alive their ſtarven ſoules, ready to dye of hunger.</p>
+            <p>Set lamenting <hi>Ireland</hi> before your eyes, with all thoſe villanies &amp; outrages committed on men, women, children, rich, poore, prieſt and people, without reſpect of age, or ſex, or calling.</p>
+            <p>Do we deſire to be made deſolate as they be?</p>
+            <p>
+               <hi>Would we ſee</hi> our Towns and Cities on a flaming fire?</p>
+            <p>
+               <hi>Would it be pleaſing</hi> to us to behold our wives, the pleaſure of our eyes raviſhed before our faces?</p>
+            <p>
+               <hi>Would it be a delight</hi> unto us to ſee our little Infants, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat be ſo deare and tender to us, that the wind may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be ſuffered to blow on them, toſſed on the Pikes in ſport, by the barbarous and remorſeleſſe Souldier, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken by the heeles, and their braines daſhed out againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he pavement?</p>
+            <p>
+               <hi>Would we behold</hi> all we have laboured for all our life <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong, carried away in a moment by a ſtranger; <hi>and all our</hi> pleaſant places that be deare unto us, made a deſo<g ref="char:EOLhyphen"/>late heap of rubbiſh; <hi>even our Churches,</hi> which our fa<g ref="char:EOLhyphen"/>thers
+<pb n="39" facs="tcp:124329:24"/>with great and expenſive coſts have builded, and our ſelves have at our own charges repaired and beau<g ref="char:EOLhyphen"/>tified, that we may with the more lightſome comlines, and decent delight aſſemble together in them to Gods ſervice &amp; the welfare of our ſouls, <hi>&amp; into which in</hi> ſome places already the <hi>Souldier is entred to bee trained and marſhalled:</hi> Would we ſee them laid waſte, or made ſhambles, or market-places, or ſtables, or Pigion houſes, the things that ſome deſire and ſpeake concerning them already?</p>
+            <p>Or do we deſire to enjoy Gods bleſſings, and our ſelves &amp; wives and children in honeſty and in honour, our trades and riches in the City with ſafety, our plea<g ref="char:EOLhyphen"/>ſure and poſſeſſions in the Countrey with comfort and contentment?</p>
+            <p>Oh then let us deſire, and pray, and labour for the continuance of Peace, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Oh foole, foole, all theſe deſirable things are in this one thing, Peace.</p>
+            <p>And if notwithſtanding all that hath been ſaid, or may bee thought concerning the bleſſing of Peace, and the miſchiefe of War, we will yet deſire to be fighting; Remember that imprecation of the Prophet, Pſal. 68.30. <hi>Thou ſhalt ſcatter the people that delight in War.</hi> Conſider neither ſide can be aſſured of victory: nor can any man imagine the ſad iſſues of a diſcomfiture to the diſcomfited.</p>
+            <p>Let therefore (I beſeech you) the eare that hath heard theſe things, affect the heart againſt that fearefull judg<g ref="char:EOLhyphen"/>ment of War, and beget in us all a deſire and love of Peace, in which we may enjoy all deſirable bleſſings,
+<pb n="40" facs="tcp:124329:25"/>and the bleſſed Goſpell of Peace, to build us up in that Peace of God that paſſeth all underſtanding, and bring us after the troubles of this life to that reſt and Peace that ſhall bee glorious and happy in Heaven for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
